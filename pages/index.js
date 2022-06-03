@@ -17,11 +17,10 @@ export default function Home() {
           RainbowKit 🌈 demo
         </h1>
 
-
-
-        <p className={styles.description}>
+        <div className={styles.wallet}>
           <ConnectButton />
-        </p>
+        </div>
+
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>

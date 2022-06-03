@@ -108,6 +108,11 @@
   margin-left: 0.5rem;
 }
 
+.wallet {
+  margin: 30px;
+  padding: 30px;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
